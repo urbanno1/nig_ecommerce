@@ -1,0 +1,14 @@
+C:\MVC\E_Commerce_Local\E_Commerce_WebAPI\bin\Debug\netcoreapp2.1\E_Commerce_WebAPI.deps.json
+C:\MVC\E_Commerce_Local\E_Commerce_WebAPI\bin\Debug\netcoreapp2.1\E_Commerce_WebAPI.runtimeconfig.json
+C:\MVC\E_Commerce_Local\E_Commerce_WebAPI\bin\Debug\netcoreapp2.1\E_Commerce_WebAPI.runtimeconfig.dev.json
+C:\MVC\E_Commerce_Local\E_Commerce_WebAPI\bin\Debug\netcoreapp2.1\E_Commerce_WebAPI.dll
+C:\MVC\E_Commerce_Local\E_Commerce_WebAPI\bin\Debug\netcoreapp2.1\E_Commerce_WebAPI.pdb
+C:\MVC\E_Commerce_Local\E_Commerce_WebAPI\obj\Debug\netcoreapp2.1\E_Commerce_WebAPI.csprojAssemblyReference.cache
+C:\MVC\E_Commerce_Local\E_Commerce_WebAPI\obj\Debug\netcoreapp2.1\E_Commerce_WebAPI.csproj.CoreCompileInputs.cache
+C:\MVC\E_Commerce_Local\E_Commerce_WebAPI\obj\Debug\netcoreapp2.1\E_Commerce_WebAPI.RazorAssemblyInfo.cache
+C:\MVC\E_Commerce_Local\E_Commerce_WebAPI\obj\Debug\netcoreapp2.1\E_Commerce_WebAPI.RazorAssemblyInfo.cs
+C:\MVC\E_Commerce_Local\E_Commerce_WebAPI\obj\Debug\netcoreapp2.1\E_Commerce_WebAPI.AssemblyInfoInputs.cache
+C:\MVC\E_Commerce_Local\E_Commerce_WebAPI\obj\Debug\netcoreapp2.1\E_Commerce_WebAPI.AssemblyInfo.cs
+C:\MVC\E_Commerce_Local\E_Commerce_WebAPI\obj\Debug\netcoreapp2.1\E_Commerce_WebAPI.RazorTargetAssemblyInfo.cache
+C:\MVC\E_Commerce_Local\E_Commerce_WebAPI\obj\Debug\netcoreapp2.1\E_Commerce_WebAPI.dll
+C:\MVC\E_Commerce_Local\E_Commerce_WebAPI\obj\Debug\netcoreapp2.1\E_Commerce_WebAPI.pdb
