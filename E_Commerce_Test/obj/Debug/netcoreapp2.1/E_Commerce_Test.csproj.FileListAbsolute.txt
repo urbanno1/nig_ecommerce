@@ -1,0 +1,13 @@
+C:\MVC\E_Commerce_Local\E_Commerce_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\MVC\E_Commerce_Local\E_Commerce_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\MVC\E_Commerce_Local\E_Commerce_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\MVC\E_Commerce_Local\E_Commerce_Test\bin\Debug\netcoreapp2.1\E_Commerce_Test.deps.json
+C:\MVC\E_Commerce_Local\E_Commerce_Test\bin\Debug\netcoreapp2.1\E_Commerce_Test.runtimeconfig.json
+C:\MVC\E_Commerce_Local\E_Commerce_Test\bin\Debug\netcoreapp2.1\E_Commerce_Test.runtimeconfig.dev.json
+C:\MVC\E_Commerce_Local\E_Commerce_Test\bin\Debug\netcoreapp2.1\E_Commerce_Test.dll
+C:\MVC\E_Commerce_Local\E_Commerce_Test\bin\Debug\netcoreapp2.1\E_Commerce_Test.pdb
+C:\MVC\E_Commerce_Local\E_Commerce_Test\obj\Debug\netcoreapp2.1\E_Commerce_Test.csproj.CoreCompileInputs.cache
+C:\MVC\E_Commerce_Local\E_Commerce_Test\obj\Debug\netcoreapp2.1\E_Commerce_Test.AssemblyInfoInputs.cache
+C:\MVC\E_Commerce_Local\E_Commerce_Test\obj\Debug\netcoreapp2.1\E_Commerce_Test.AssemblyInfo.cs
+C:\MVC\E_Commerce_Local\E_Commerce_Test\obj\Debug\netcoreapp2.1\E_Commerce_Test.dll
+C:\MVC\E_Commerce_Local\E_Commerce_Test\obj\Debug\netcoreapp2.1\E_Commerce_Test.pdb

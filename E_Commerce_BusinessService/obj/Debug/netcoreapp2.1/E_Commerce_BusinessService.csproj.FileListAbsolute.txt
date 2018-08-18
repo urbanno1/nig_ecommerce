@@ -1,0 +1,9 @@
+C:\MVC\E_Commerce_Local\E_Commerce_BusinessService\bin\Debug\netcoreapp2.1\E_Commerce_BusinessService.deps.json
+C:\MVC\E_Commerce_Local\E_Commerce_BusinessService\bin\Debug\netcoreapp2.1\E_Commerce_BusinessService.dll
+C:\MVC\E_Commerce_Local\E_Commerce_BusinessService\bin\Debug\netcoreapp2.1\E_Commerce_BusinessService.pdb
+C:\MVC\E_Commerce_Local\E_Commerce_BusinessService\obj\Debug\netcoreapp2.1\E_Commerce_BusinessService.csproj.CoreCompileInputs.cache
+C:\MVC\E_Commerce_Local\E_Commerce_BusinessService\obj\Debug\netcoreapp2.1\E_Commerce_BusinessService.AssemblyInfoInputs.cache
+C:\MVC\E_Commerce_Local\E_Commerce_BusinessService\obj\Debug\netcoreapp2.1\E_Commerce_BusinessService.AssemblyInfo.cs
+C:\MVC\E_Commerce_Local\E_Commerce_BusinessService\obj\Debug\netcoreapp2.1\E_Commerce_BusinessService.dll
+C:\MVC\E_Commerce_Local\E_Commerce_BusinessService\obj\Debug\netcoreapp2.1\E_Commerce_BusinessService.pdb
+C:\MVC\E_Commerce_Local\E_Commerce_BusinessService\obj\Debug\netcoreapp2.1\E_Commerce_BusinessService.csprojAssemblyReference.cache

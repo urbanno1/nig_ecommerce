@@ -1,0 +1,10 @@
+C:\MVC\E_Commerce_Local\E_Commerce_DataModel\bin\Debug\netcoreapp2.1\E_Commerce_DataModel.deps.json
+C:\MVC\E_Commerce_Local\E_Commerce_DataModel\bin\Debug\netcoreapp2.1\E_Commerce_DataModel.dll
+C:\MVC\E_Commerce_Local\E_Commerce_DataModel\obj\Debug\netcoreapp2.1\E_Commerce_DataModel.csproj.CoreCompileInputs.cache
+C:\MVC\E_Commerce_Local\E_Commerce_DataModel\obj\Debug\netcoreapp2.1\E_Commerce_DataModel.AssemblyInfoInputs.cache
+C:\MVC\E_Commerce_Local\E_Commerce_DataModel\obj\Debug\netcoreapp2.1\E_Commerce_DataModel.AssemblyInfo.cs
+C:\MVC\E_Commerce_Local\E_Commerce_DataModel\bin\Debug\netcoreapp2.1\E_Commerce_DataModel.runtimeconfig.json
+C:\MVC\E_Commerce_Local\E_Commerce_DataModel\bin\Debug\netcoreapp2.1\E_Commerce_DataModel.runtimeconfig.dev.json
+C:\MVC\E_Commerce_Local\E_Commerce_DataModel\bin\Debug\netcoreapp2.1\E_Commerce_DataModel.pdb
+C:\MVC\E_Commerce_Local\E_Commerce_DataModel\obj\Debug\netcoreapp2.1\E_Commerce_DataModel.dll
+C:\MVC\E_Commerce_Local\E_Commerce_DataModel\obj\Debug\netcoreapp2.1\E_Commerce_DataModel.pdb
